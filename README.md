@@ -1,5 +1,5 @@
 # Mars-Colony
-This project is actively being developed. It is a work in progress, and new features and improvements are regularly added.
+It is a game that have isometric style. This project is actively being developed. It is a work in progress, and new features and improvements are regularly added.
 
 # Current Status
 
