@@ -1,0 +1,2798 @@
+fileFormatVersion: 2
+guid: b39d600e959e84f47aa4c92d0c5bc30a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1092
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3614
+        width: 465
+        height: 454
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 185.5, y: -33}
+        - {x: -158.5, y: -32}
+        - {x: -157.5, y: -214}
+        - {x: 184.5, y: -211}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbfd8b582f79c74684f66f4991b78ef
+      internalID: -2125126081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3625
+        width: 420
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d7ac0f8003ee47b3e9bcd5069f4cf
+      internalID: 1329793943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 3625
+        width: 423
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967dff1cb6a9d6e4b94f880b4e1d1344
+      internalID: 1406332541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_3
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 3614
+        width: 420
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2be4d4973f07a843ba379c6218f4150
+      internalID: -2036418531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_4
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 3603
+        width: 428
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863dcd0a9945354fb5d2556eb438810
+      internalID: -1414499483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_5
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 3607
+        width: 394
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd204f29cbefd442b2674f9eb623507
+      internalID: 483880674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_6
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 3625
+        width: 382
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aefc8137e4af647872e597b71ce6e0
+      internalID: -1706031644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_7
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 3640
+        width: 401
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4efe172b054f2146b8fa9503a319814
+      internalID: 201061241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_8
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 3625
+        width: 394
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f7cc740acc644a8aaa26557267ebd
+      internalID: 2011579521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_9
+      rect:
+        serializedVersion: 2
+        x: 4667
+        y: 3633
+        width: 446
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dde42dfe1fd00409be03fdca081c43
+      internalID: 361690740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_10
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 3633
+        width: 398
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827b5f2991601a845b248ba3a45bfdc9
+      internalID: 234868610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_11
+      rect:
+        serializedVersion: 2
+        x: 5721
+        y: 3644
+        width: 363
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5468c85869444e446baf67538f66edc3
+      internalID: 31145601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_12
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 3644
+        width: 390
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291bae6f9115af64c876739c8f571e82
+      internalID: 1766843239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_13
+      rect:
+        serializedVersion: 2
+        x: 6711
+        y: 3625
+        width: 397
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b386dbbf5d821478e5df25922e050b
+      internalID: -1338104604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_14
+      rect:
+        serializedVersion: 2
+        x: 7232
+        y: 3625
+        width: 412
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c67b05822f550540ad6f13fc64b0234
+      internalID: -588080787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3104
+        width: 382
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1eb59a3023794abddbae0212e7298
+      internalID: -1920239423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3111
+        width: 378
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd7ec582bd1c634baad67369bba2e0d
+      internalID: -132415278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_17
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 3104
+        width: 397
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da66e75bf09a18240a3c3a9b6e8b7923
+      internalID: 1004593072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_18
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 3100
+        width: 379
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a2a505fe2ee8442b640b562bc4e8b6
+      internalID: -1642829050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_19
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 3115
+        width: 371
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd3331add633b4881c214b0b7df16a
+      internalID: -2056407435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_20
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 3145
+        width: 401
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95664d7c88da5754087296e72d9c091a
+      internalID: 2009584199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_21
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 3119
+        width: 371
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13.5, y: 142.5}
+        - {x: -115.5, y: 110.5}
+        - {x: -164.5, y: 23.5}
+        - {x: -175.5, y: -76.5}
+        - {x: -6.5, y: -152.5}
+        - {x: 151.5, y: -78.5}
+        - {x: 160.5, y: 23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b201d1018d5c8f42a789fca49f76eb8
+      internalID: 1557161642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_22
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 3145
+        width: 349
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf49d46e7fa6b43a74afad29d8ff80
+      internalID: -834741874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_23
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 3130
+        width: 348
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb9a3f35903545479c72a80cf675bae
+      internalID: 931609961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_24
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 3126
+        width: 446
+        height: 439
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -168, y: -50.5}
+        - {x: -166, y: -207.5}
+        - {x: 167, y: -207.5}
+        - {x: 167, y: -53.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f1bc0d10cb5a4bbdbc3e516b101f9
+      internalID: -834200417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_25
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 3123
+        width: 442
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e02c489f106f4bbd3d5f61b7d1af9
+      internalID: 1212174259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_26
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 3130
+        width: 431
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1239c5bbfc4fb2e4095267f4a4fb7ef1
+      internalID: 469289128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_27
+      rect:
+        serializedVersion: 2
+        x: 6219
+        y: 3126
+        width: 432
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbad32f3eb5c944392b798dbb6392be
+      internalID: -1664952126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_28
+      rect:
+        serializedVersion: 2
+        x: 6729
+        y: 3119
+        width: 372
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68809689de9d6ff48b155b103c82ff53
+      internalID: 739355824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_29
+      rect:
+        serializedVersion: 2
+        x: 7284
+        y: 3138
+        width: 289
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426b5d0c4cf82142b78cbb5bf1ae16a
+      internalID: -430744959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2590
+        width: 393
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c2cceefff00dc41b044d7f474cdc66
+      internalID: -1788771264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_31
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2598
+        width: 379
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb777650adb1c0141b18717cfadd55af
+      internalID: 107269179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_32
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2605
+        width: 355
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21916b0cd61376468002a8634dc0833
+      internalID: 1627380456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_33
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2590
+        width: 367
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad3a86dc91108d47952932f5def356a
+      internalID: -1888305233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_34
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 2605
+        width: 401
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d3bc2413ef734f94d7f16495a72da
+      internalID: -1373528789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_35
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 2601
+        width: 338
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48821a7653f7d1648aa5721912bb0102
+      internalID: -566365248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_36
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 2594
+        width: 420
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf3acce8cdf57458ef275eebdac27b
+      internalID: 528357135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_37
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2620
+        width: 438
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ce06dc10c57d4faf6eb4e8c4cf04d
+      internalID: 2016097883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_38
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 2601
+        width: 397
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c0b69df852c674ab93c6ea60b40628
+      internalID: 856484108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_39
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 2605
+        width: 360
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686d805361c6ba74cac8fed5b5b6a124
+      internalID: -1817295329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_40
+      rect:
+        serializedVersion: 2
+        x: 5196
+        y: 2609
+        width: 389
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db909cf0d9996040a5572312dccea23
+      internalID: -890550856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_41
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 2605
+        width: 431
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56fac65a297bc3469d5785439aaf130
+      internalID: 1553950056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_42
+      rect:
+        serializedVersion: 2
+        x: 6227
+        y: 2605
+        width: 364
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4681f2e1ee88ba448abee1218b928345
+      internalID: 788034794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_43
+      rect:
+        serializedVersion: 2
+        x: 6726
+        y: 2610
+        width: 356
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f01353cdeb5164cb4c64887a135014
+      internalID: -1437435520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_44
+      rect:
+        serializedVersion: 2
+        x: 7179
+        y: 2598
+        width: 454
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfc659fc26b4b844a221ed6743105d1
+      internalID: 1772489302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2091
+        width: 383
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f6aa4de8ad399448a65a9864b35053
+      internalID: 1219672962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2095
+        width: 281
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6894af7c8752d4ca8a02c1d0b144e8
+      internalID: 201540068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_47
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2087
+        width: 323
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9e6fa23557d049a265a7cd9102aea
+      internalID: 1256645002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_48
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2065
+        width: 396
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d7a7e5adaae1428d222a1f95a8f69
+      internalID: 568835585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_49
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 2087
+        width: 401
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2550e1bc5a1a0245a56428ef0a1b8f2
+      internalID: 293760782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_50
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2084
+        width: 401
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55127875052b02641b0099f3f945906c
+      internalID: 580307219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_51
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 2084
+        width: 427
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba7425143c83134089697b180bed9c1
+      internalID: 387553810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_52
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2125
+        width: 315
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857af56fcc0001a42a93d5cc35d54e0e
+      internalID: 2130900893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_53
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 2102
+        width: 453
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1718a0803b04fd4f9d1de38435a343d
+      internalID: 611769241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_54
+      rect:
+        serializedVersion: 2
+        x: 4632
+        y: 2087
+        width: 444
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b926c4abd5d84d4695985d39adb2791
+      internalID: 188486951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_55
+      rect:
+        serializedVersion: 2
+        x: 5162
+        y: 2102
+        width: 446
+        height: 398
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -170, y: -39}
+        - {x: -171, y: -184}
+        - {x: 164, y: -184}
+        - {x: 163, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ba670190a26a45b04af736eb6ad43
+      internalID: 1229544844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_56
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 2095
+        width: 390
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a70308a1dece4b91dce62be02b2ed
+      internalID: -220709556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_57
+      rect:
+        serializedVersion: 2
+        x: 6193
+        y: 2106
+        width: 435
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6beeb78edf17141ab3b1ea5ca09227
+      internalID: 910041328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_58
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 2084
+        width: 405
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb1702570b0bf49a238a766d21b8b2
+      internalID: -1122458946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_59
+      rect:
+        serializedVersion: 2
+        x: 7209
+        y: 2080
+        width: 417
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e0e60067baa5143ae086831efc1858
+      internalID: 517319938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_60
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1570
+        width: 427
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044050e3a96687a44b3e50229fed2643
+      internalID: 716383127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1577
+        width: 393
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e61b81c87825145bf6197e35bd03d7
+      internalID: 1042394719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_62
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1585
+        width: 383
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1ecf847295de4a80646204d3fa150
+      internalID: 968473840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_63
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1566
+        width: 390
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79c05ef80e2b224c92e220a06020c45
+      internalID: 1368248802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_64
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1574
+        width: 304
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd9ada2ab17124885b25c32e747054
+      internalID: 193611840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_65
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1581
+        width: 393
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aefefb0734504644b535dc0969f18a2
+      internalID: 358018836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_66
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1600
+        width: 372
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b81c0c1dfe1fb468e1aa16e2186870
+      internalID: -1653157294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_67
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 1577
+        width: 476
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98045acfae740954daa9f17711b6ba65
+      internalID: 815120439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_68
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 1587
+        width: 326
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c2d24d3f1bce54aac97fb42f2d31b0
+      internalID: -845531478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_69
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 1589
+        width: 465
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3a67a1c3db29648be9cb89e186c5d4
+      internalID: -1435536304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_70
+      rect:
+        serializedVersion: 2
+        x: 5162
+        y: 1581
+        width: 397
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47994729f17fbaf4f97104bccb2a5501
+      internalID: -41326180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_71
+      rect:
+        serializedVersion: 2
+        x: 5721
+        y: 1586
+        width: 337
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272075d14a504ab40ade0319fcf5b277
+      internalID: -1286484879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_72
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 1574
+        width: 428
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c35ef577c8163b45a0afe74008e74c3
+      internalID: 2104255297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_73
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 1585
+        width: 360
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6e38138baaeb48b08484b630807ed
+      internalID: -992393214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_74
+      rect:
+        serializedVersion: 2
+        x: 7292
+        y: 1592
+        width: 270
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f84bc3128a1d4d8d96744b6cfc199
+      internalID: 612786605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_75
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1071
+        width: 402
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79623a99e04e61a4f87b67e47f059fc8
+      internalID: 1457187809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_76
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1071
+        width: 296
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad6731d57eef6f49b312d99f15ce47c
+      internalID: 1481711278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_77
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1060
+        width: 382
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dbf5cb7d061fe4eb0a299abd09f48a
+      internalID: 2046995943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_78
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1075
+        width: 378
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a831974882d042c4c8589602aa404ada
+      internalID: -2051652228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_79
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1082
+        width: 443
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef084b8cf221b4193a2702b4ca2298
+      internalID: -30756353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_80
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 1093
+        width: 375
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ba06eb356d8d4abc63638bfc136da
+      internalID: 252206128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_81
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 1082
+        width: 311
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f33a9ddb37ec8409132c7cce1c7186
+      internalID: 1233231792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_82
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1082
+        width: 360
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f3600926dfc8c45abf5b5e17b2ad15
+      internalID: -1981030585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_83
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 1075
+        width: 341
+        height: 401
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -157.5, y: -79.5}
+        - {x: -158.5, y: -187.5}
+        - {x: 160.5, y: -189.5}
+        - {x: 162.5, y: -82.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2e666e9f584b4e9430c2097c3c740
+      internalID: -1932518716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_84
+      rect:
+        serializedVersion: 2
+        x: 4667
+        y: 1071
+        width: 375
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728446778c5dc4040a46e13d400e19b7
+      internalID: 2117907279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_85
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 1075
+        width: 359
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40c860da1246f846a1de4523c85e052
+      internalID: 1859358792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_86
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 1075
+        width: 404
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9446844dfa7c25a4ea42464d7815a858
+      internalID: -1186828853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_87
+      rect:
+        serializedVersion: 2
+        x: 6227
+        y: 1071
+        width: 371
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc93a6bde9757e48a566ff385c4e0fc
+      internalID: -1652890031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_88
+      rect:
+        serializedVersion: 2
+        x: 6771
+        y: 1078
+        width: 318
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41cea68fe0950e4d8f94665fbac06aa
+      internalID: -795982602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_89
+      rect:
+        serializedVersion: 2
+        x: 7198
+        y: 1060
+        width: 435
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0c18c90e5e2e147af53d9284b48c33
+      internalID: 1198670206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 580
+        width: 300
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e1cf803b28cbe42bfa314af69fbc37
+      internalID: 392073565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 572
+        width: 356
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff25df1f3528047895b906bc68591e
+      internalID: 1241070754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_92
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 555
+        width: 349
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203bdaed1822944f8ec7aa89ba49ebf
+      internalID: -420282890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_93
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 561
+        width: 387
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbda424eef7a94bb741fb7493ce0db
+      internalID: -1056529076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_94
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 572
+        width: 307
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5894ee2612099b4bb7ccea5f7f9d9d6
+      internalID: -368950724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_95
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 580
+        width: 363
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8f1e7b2474ce747889a77e42ea2eb8
+      internalID: -21396875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_96
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 565
+        width: 412
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7a4b98aea95d042862f3b79cfb0897
+      internalID: 635436140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_97
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 565
+        width: 386
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e7d2183f5b541499a5302ddb3f15e6
+      internalID: 1536254167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_98
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 565
+        width: 432
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac62db74d24184fb5d7acdd3a1067d
+      internalID: 1353462931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_99
+      rect:
+        serializedVersion: 2
+        x: 4645
+        y: 568
+        width: 416
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe5eb9a0d1091744aed3d8c9abedf36
+      internalID: -882837796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_100
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 568
+        width: 375
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bee8657a0bd524a91d7283889e32f8
+      internalID: -86399254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_101
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 568
+        width: 465
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f73e7b3dbbba4091fc8d8c8d35801
+      internalID: -354021598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_102
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 565
+        width: 394
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a289c9ef828284cbb1ec36857e2a21
+      internalID: -1392834924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_103
+      rect:
+        serializedVersion: 2
+        x: 6718
+        y: 550
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86dcc0f2193f9047befc1f65e368b98
+      internalID: -2140954733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_104
+      rect:
+        serializedVersion: 2
+        x: 7251
+        y: 561
+        width: 360
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a430c224036e54fb902248fb98043b
+      internalID: -284759749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 73
+        width: 300
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750165dd369528e40bcdca4af72c1318
+      internalID: 1747517191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_106
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 73
+        width: 413
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6505639f17381a34fa98cff3e379fab1
+      internalID: 1742966754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_107
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 62
+        width: 375
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7b9bb32f68d5c4196b468c4decb6d6
+      internalID: -673785674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_108
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 70
+        width: 300
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d203524fa420ec4cb82827442124818
+      internalID: 2031653146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_109
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 55
+        width: 412
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646dfc33915550544a622929472f7bbf
+      internalID: -1987866953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_110
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 54
+        width: 401
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d424a2d50abe4ab6a0447ef184c90
+      internalID: -461896161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_111
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 54
+        width: 323
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9545a9a78d31244af46bd1649dfc34
+      internalID: 598182186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_112
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 58
+        width: 387
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481fa8d400e1bb478aed2706ebd5be6
+      internalID: -187464295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_113
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 60
+        width: 457
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08f674d3cefe00439a6895e0a5a4f3a
+      internalID: -130226336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_114
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 51
+        width: 405
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfb93e388ce6884981fa374af018bc6
+      internalID: -704808056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_115
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 36
+        width: 420
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7952aa852a1cf41a053f1be5d6fc64
+      internalID: 1113404680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_116
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 51
+        width: 394
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79134702a698f4c4ca05ed7990ebdfcd
+      internalID: 370312804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_117
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 54
+        width: 430
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d96e5ffa6d344a8e8b1355e0e3627
+      internalID: 188557988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_118
+      rect:
+        serializedVersion: 2
+        x: 6722
+        y: 32
+        width: 424
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7b86ef1c1995344903560f8a74bee5
+      internalID: 398684820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512x512 Crystals Transparent_119
+      rect:
+        serializedVersion: 2
+        x: 7232
+        y: 47
+        width: 412
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653fcebc7f23e54cad98fc450f59cda
+      internalID: -2000687251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      512x512 Crystals Transparent_28: 739355824
+      512x512 Crystals Transparent_16: -132415278
+      512x512 Crystals Transparent_64: 193611840
+      512x512 Crystals Transparent_18: -1642829050
+      512x512 Crystals Transparent_98: 1353462931
+      512x512 Crystals Transparent_0: -2125126081
+      512x512 Crystals Transparent_13: -1338104604
+      512x512 Crystals Transparent_5: 483880674
+      512x512 Crystals Transparent_104: -284759749
+      512x512 Crystals Transparent_60: 716383127
+      512x512 Crystals Transparent_113: -130226336
+      512x512 Crystals Transparent_70: -41326180
+      512x512 Crystals Transparent_77: 2046995943
+      512x512 Crystals Transparent_39: -1817295329
+      512x512 Crystals Transparent_29: -430744959
+      512x512 Crystals Transparent_118: 398684820
+      512x512 Crystals Transparent_51: 387553810
+      512x512 Crystals Transparent_69: -1435536304
+      512x512 Crystals Transparent_54: 188486951
+      512x512 Crystals Transparent_101: -354021598
+      512x512 Crystals Transparent_52: 2130900893
+      512x512 Crystals Transparent_108: 2031653146
+      512x512 Crystals Transparent_17: 1004593072
+      512x512 Crystals Transparent_36: 528357135
+      512x512 Crystals Transparent_112: -187464295
+      512x512 Crystals Transparent_61: 1042394719
+      512x512 Crystals Transparent_40: -890550856
+      512x512 Crystals Transparent_63: 1368248802
+      512x512 Crystals Transparent_15: -1920239423
+      512x512 Crystals Transparent_46: 201540068
+      512x512 Crystals Transparent_72: 2104255297
+      512x512 Crystals Transparent_62: 968473840
+      512x512 Crystals Transparent_24: -834200417
+      512x512 Crystals Transparent_99: -882837796
+      512x512 Crystals Transparent_20: 2009584199
+      512x512 Crystals Transparent_42: 788034794
+      512x512 Crystals Transparent_25: 1212174259
+      512x512 Crystals Transparent_65: 358018836
+      512x512 Crystals Transparent_71: -1286484879
+      512x512 Crystals Transparent_12: 1766843239
+      512x512 Crystals Transparent_9: 361690740
+      512x512 Crystals Transparent_3: -2036418531
+      512x512 Crystals Transparent_90: 392073565
+      512x512 Crystals Transparent_47: 1256645002
+      512x512 Crystals Transparent_96: 635436140
+      512x512 Crystals Transparent_114: -704808056
+      512x512 Crystals Transparent_35: -566365248
+      512x512 Crystals Transparent_11: 31145601
+      512x512 Crystals Transparent_53: 611769241
+      512x512 Crystals Transparent_78: -2051652228
+      512x512 Crystals Transparent_94: -368950724
+      512x512 Crystals Transparent_75: 1457187809
+      512x512 Crystals Transparent_8: 2011579521
+      512x512 Crystals Transparent_119: -2000687251
+      512x512 Crystals Transparent_59: 517319938
+      512x512 Crystals Transparent_6: -1706031644
+      512x512 Crystals Transparent_14: -588080787
+      512x512 Crystals Transparent_73: -992393214
+      512x512 Crystals Transparent_91: 1241070754
+      512x512 Crystals Transparent_26: 469289128
+      512x512 Crystals Transparent_115: 1113404680
+      512x512 Crystals Transparent_55: 1229544844
+      512x512 Crystals Transparent_89: 1198670206
+      512x512 Crystals Transparent_100: -86399254
+      512x512 Crystals Transparent_22: -834741874
+      512x512 Crystals Transparent_74: 612786605
+      512x512 Crystals Transparent_97: 1536254167
+      512x512 Crystals Transparent_19: -2056407435
+      512x512 Crystals Transparent_67: 815120439
+      512x512 Crystals Transparent_85: 1859358792
+      512x512 Crystals Transparent_1: 1329793943
+      512x512 Crystals Transparent_117: 188557988
+      512x512 Crystals Transparent_23: 931609961
+      512x512 Crystals Transparent_31: 107269179
+      512x512 Crystals Transparent_27: -1664952126
+      512x512 Crystals Transparent_110: -461896161
+      512x512 Crystals Transparent_81: 1233231792
+      512x512 Crystals Transparent_86: -1186828853
+      512x512 Crystals Transparent_48: 568835585
+      512x512 Crystals Transparent_84: 2117907279
+      512x512 Crystals Transparent_43: -1437435520
+      512x512 Crystals Transparent_37: 2016097883
+      512x512 Crystals Transparent_107: -673785674
+      512x512 Crystals Transparent_82: -1981030585
+      512x512 Crystals Transparent_106: 1742966754
+      512x512 Crystals Transparent_10: 234868610
+      512x512 Crystals Transparent_76: 1481711278
+      512x512 Crystals Transparent_38: 856484108
+      512x512 Crystals Transparent_68: -845531478
+      512x512 Crystals Transparent_116: 370312804
+      512x512 Crystals Transparent_50: 580307219
+      512x512 Crystals Transparent_49: 293760782
+      512x512 Crystals Transparent_111: 598182186
+      512x512 Crystals Transparent_105: 1747517191
+      512x512 Crystals Transparent_57: 910041328
+      512x512 Crystals Transparent_79: -30756353
+      512x512 Crystals Transparent_102: -1392834924
+      512x512 Crystals Transparent_45: 1219672962
+      512x512 Crystals Transparent_93: -1056529076
+      512x512 Crystals Transparent_44: 1772489302
+      512x512 Crystals Transparent_21: 1557161642
+      512x512 Crystals Transparent_2: 1406332541
+      512x512 Crystals Transparent_41: 1553950056
+      512x512 Crystals Transparent_88: -795982602
+      512x512 Crystals Transparent_56: -220709556
+      512x512 Crystals Transparent_80: 252206128
+      512x512 Crystals Transparent_33: -1888305233
+      512x512 Crystals Transparent_87: -1652890031
+      512x512 Crystals Transparent_103: -2140954733
+      512x512 Crystals Transparent_66: -1653157294
+      512x512 Crystals Transparent_83: -1932518716
+      512x512 Crystals Transparent_92: -420282890
+      512x512 Crystals Transparent_58: -1122458946
+      512x512 Crystals Transparent_34: -1373528789
+      512x512 Crystals Transparent_109: -1987866953
+      512x512 Crystals Transparent_4: -1414499483
+      512x512 Crystals Transparent_30: -1788771264
+      512x512 Crystals Transparent_7: 201061241
+      512x512 Crystals Transparent_95: -21396875
+      512x512 Crystals Transparent_32: 1627380456
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
