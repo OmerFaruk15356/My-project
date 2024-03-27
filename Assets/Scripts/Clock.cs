@@ -8,7 +8,7 @@ public class Clock : MonoBehaviour
     [Header("Variable")]
     [SerializeField] RectTransform hourHand; 
     const int hourTime = 13;
-    float dayDuration = 130f;
+    float dayDuration = 260f;
     float totalTime = 0f;
     float currentTime = 0f;
     float hourToDegree = 360 / 12;

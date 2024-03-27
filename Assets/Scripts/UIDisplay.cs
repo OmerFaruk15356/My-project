@@ -15,12 +15,10 @@ public class UIDisplay : MonoBehaviour
 
     [Header("Class")]
     Stats stats;
-    ButtosAction buttosAction;
     
     void Start() 
     {
         stats = FindObjectOfType<Stats>();
-        buttosAction = FindObjectOfType<ButtosAction>();
     }
 
     public void DisplayInfoes(string name, float collected,int level,float mineRate, Sprite icon, int cost)
@@ -33,15 +31,15 @@ public class UIDisplay : MonoBehaviour
     {
         slider.value = stats.xp;
         slider.maxValue = stats.xpForLevel;
-        texts[1].text = "  " + stats.level + "\n" +
-        " $" + stats.money + "\n" +
+        texts[1].text = "   " + stats.level + "\n" +
+        "$" + stats.money + "\n" +
         " Day " + stats.day + "\n";
         texts[2].text = stats.xp + "/" + stats.xpForLevel;
     }
     public void SetConfirmUI()
     {
         SetPanelsActive(2,true);
-        texts[3].text = "Are you sure to do that ?";
+        texts[3].text = "Do you confirm this action?";
     }
     public void Warning(string text)
     {
@@ -64,7 +62,7 @@ public class UIDisplay : MonoBehaviour
     }
     public void SetEnergy()
     {
-        texts[6].text = " " + (int)stats.energy + "\n";
+        texts[6].text = (int)stats.energy + "\n";
     }
 
     public void SetShopMoney()

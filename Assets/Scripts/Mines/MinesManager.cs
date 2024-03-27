@@ -5,6 +5,9 @@ using UnityEngine;
 
 public class MinesManager : MonoBehaviour
 {
+    [Header("Class")]
+    [SerializeField] InventoryManager inventoryManager;
+
     [Header("Lists")]
     [SerializeField] List<GameObject> greenMines;
     [SerializeField] List<GameObject> blueMines;
@@ -16,25 +19,29 @@ public class MinesManager : MonoBehaviour
     public float blueMine;
     public float redMine;
     public float purpleMine;
+    public float greenMineConverted;
+    public float blueMineConverted;
+    public float redMineConverted;
+    public float purpleMineConverted;
 
-     [Header("Class")]
-    [SerializeField] InventoryManager inventoryManager;
     private void Update() 
     {
-        CheckDiscovered();
+        if(!inventoryManager.isSwitched)
+        SetMineInventory();
+        CalculateTotalAmount();
     }
     public void CalculateTotalAmount()
     {
         greenMine = (int)(greenMines[0].gameObject.GetComponent<SetMines>().collected 
         + greenMines[1].gameObject.GetComponent<SetMines>().collected 
-        + greenMines[2].gameObject.GetComponent<SetMines>().collected);
+        + greenMines[2].gameObject.GetComponent<SetMines>().collected) + greenMineConverted;
         blueMine = (int)(blueMines[0].gameObject.GetComponent<SetMines>().collected 
-        + blueMines[1].gameObject.GetComponent<SetMines>().collected);
-        redMine = (int)purpleMines[0].gameObject.GetComponent<SetMines>().collected ;
-        purpleMine = (int)redMines[0].gameObject.GetComponent<SetMines>().collected ;
+        + blueMines[1].gameObject.GetComponent<SetMines>().collected) + blueMineConverted;
+        redMine = (int)redMines[0].gameObject.GetComponent<SetMines>().collected + redMineConverted;
+        purpleMine = (int)purpleMines[0].gameObject.GetComponent<SetMines>().collected + purpleMineConverted;
     }
 
-    public void CheckDiscovered()
+    public void SetMineInventory()
     {
         if(greenMine > 0)
         {
@@ -56,33 +63,9 @@ public class MinesManager : MonoBehaviour
         }
         if(purpleMine > 0)
         {
-            inventoryManager.inventoryUIs[3].titleText.text = purpleMine.ToString();
+            inventoryManager.inventoryUIs[3].descriptionText.text = purpleMine.ToString();
             inventoryManager.inventoryUIs[3].titleText.text = purpleMines[0].name;
             inventoryManager.inventoryUIs[3].image.sprite = purpleMines[0].GetComponent<SpriteRenderer>().sprite;
-        }
-    }
-
-    public void SetMinesActive(bool set)
-    {
-        foreach (var item in greenMines)
-        {
-            if(!item.gameObject.GetComponent<SetMines>().isUnlock)
-            item.gameObject.GetComponent<SetMines>().enabled = set;
-        }
-        foreach (var item in blueMines)
-        {
-            if(!item.gameObject.GetComponent<SetMines>().isUnlock)
-            item.gameObject.GetComponent<SetMines>().enabled = set;
-        }
-        foreach (var item in purpleMines)
-        {
-            if(!item.gameObject.GetComponent<SetMines>().isUnlock)
-            item.gameObject.GetComponent<SetMines>().enabled = set;
-        }
-        foreach (var item in redMines)
-        {
-            if(!item.gameObject.GetComponent<SetMines>().isUnlock)
-            item.gameObject.GetComponent<SetMines>().enabled = set;
         }
     }
 }

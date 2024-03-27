@@ -18,4 +18,4 @@ MonoBehaviour:
   mineRate: 0.75
   collected: 0
   mineName: Blue
-  icon: {fileID: 1229544844, guid: b39d600e959e84f47aa4c92d0c5bc30a, type: 3}
+  icon: {fileID: 1466801135, guid: b39d600e959e84f47aa4c92d0c5bc30a, type: 3}

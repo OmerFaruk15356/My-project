@@ -9,7 +9,6 @@ public class ShopManager : MonoBehaviour
     [Header("List of Variable")]
     public List<ShopitemUI> shopitemUI;
     public List<ShopItemScriptableObjects> shopItemSO;
-    [SerializeField] List<Button> buttons;
 
     [Header("Class")]
     Stats stats;
@@ -37,7 +36,6 @@ public class ShopManager : MonoBehaviour
             shopitemUI[i].costText.text = "Cost " + shopItemSO[i].GetCost().ToString() + "$";
         }
     }
-
     public void CheckShopping(int index)
     {
         if(stats.money >= shopItemSO[index].GetCost())

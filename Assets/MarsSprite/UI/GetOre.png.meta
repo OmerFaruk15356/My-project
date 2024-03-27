@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c5e977bbb6507334a905f62e08f78a38
+guid: 4b1d5a75cc0d46f46b99a7420b8eab4a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 128
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,22 +117,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Oven_0
+      name: GetOre_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 27
-        width: 96
-        height: 88
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+        x: 21
+        y: 119
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2db21101397c5f34a964dbea771f3dd9
-      internalID: -1553346300
+      spriteID: f997158c8f5a6c641b823d5d5a90e55a
+      internalID: -10579613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetOre_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 182
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3edef5525bf1d748bd81ff2984e120b
+      internalID: -1457578959
       vertices: []
       indices: 
       edges: []
@@ -148,7 +169,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Oven_0: -1553346300
+      GetOre_0: -10579613
+      GetOre_1: -1457578959
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

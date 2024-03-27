@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: be1b41fdd8dc1154ebca82d014b01c1a, type: 3}
-  m_Name: Oven
+  m_Name: OreRefiner
   m_EditorClassIdentifier: 
-  title: Oven
+  title: OreRefiner
   description: This machine converts our mines into ore
-  imageItem: {fileID: -396088211, guid: c5e977bbb6507334a905f62e08f78a38, type: 3}
+  imageItem: {fileID: -1553346300, guid: c5e977bbb6507334a905f62e08f78a38, type: 3}
   cost: 25
   xp: 35
   gameObj: {fileID: 3889262650418978457, guid: 259434f39ee10b64ea36826ef305c13c, type: 3}

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c5e977bbb6507334a905f62e08f78a38
+guid: 0b578b7a1c63311489f27c96df0bb4ac
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 128
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,22 +117,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Oven_0
+      name: InventoryHud_0
       rect:
         serializedVersion: 2
         x: 15
-        y: 27
-        width: 96
-        height: 88
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+        y: 236
+        width: 165
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2db21101397c5f34a964dbea771f3dd9
-      internalID: -1553346300
+      spriteID: 9f3ba22ef455e5040a9d0bea52676c2b
+      internalID: 274614271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InventoryHud_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 170
+        width: 160
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b29f07c0b3514d91110d872a25dbe
+      internalID: -1137380166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InventoryHud_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a930652509c53542a31f3a5c4d7e826
+      internalID: 1477843779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InventoryHud_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 102
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeaf1fa743c109478a3a1f8ad00d6ba
+      internalID: -2143478606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InventoryHud_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 46
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945cdceae49868447849341fa16d93ea
+      internalID: 1627946434
       vertices: []
       indices: 
       edges: []
@@ -148,7 +232,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Oven_0: -1553346300
+      InventoryHud_0: 274614271
+      InventoryHud_3: -2143478606
+      InventoryHud_1: -1137380166
+      InventoryHud_2: 1477843779
+      InventoryHud_4: 1627946434
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

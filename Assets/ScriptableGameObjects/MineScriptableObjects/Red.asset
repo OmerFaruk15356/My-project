@@ -18,4 +18,4 @@ MonoBehaviour:
   mineRate: 0.25
   collected: 0
   mineName: 'Red '
-  icon: {fileID: -1932518716, guid: b39d600e959e84f47aa4c92d0c5bc30a, type: 3}
+  icon: {fileID: -1647204943, guid: b39d600e959e84f47aa4c92d0c5bc30a, type: 3}

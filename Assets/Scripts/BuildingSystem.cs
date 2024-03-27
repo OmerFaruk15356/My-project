@@ -54,7 +54,7 @@ public class BuildingSystem : MonoBehaviour
         Collider2D[] colliders = Physics2D.OverlapCircleAll(buildObject.transform.position, 0.01f); 
         foreach (Collider2D collider in colliders)
         {
-            if(buildObject.tag == "Buildings" && colliders.Length <= 2)
+            if(colliders.Length <= 2)
             {
                 return true;
             }

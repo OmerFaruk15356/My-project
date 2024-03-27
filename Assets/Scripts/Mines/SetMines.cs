@@ -11,16 +11,14 @@ public class SetMines : MonoBehaviour
 
     [Header("Class")]
     UIDisplay uIDisplay;
-    MinesManager minesManager;
+
     Stats stats;
     void Start() 
     {
         stats = FindObjectOfType<Stats>();
         uIDisplay = FindObjectOfType<UIDisplay>();
-        minesManager = FindObjectOfType<MinesManager>();
         gameObject.name = mineScriptable.GetMineName();
         level = mineScriptable.GetMineLevel();
-        collected = mineScriptable.GetCollectedAmount();
         mineRate = mineScriptable.GetMineRate();
         isUnlock = mineScriptable.GetMineState();
         cost = mineScriptable.GetMineCost(); 
@@ -32,7 +30,6 @@ public class SetMines : MonoBehaviour
         if(isUnlock)
         {
             StartMining();
-            minesManager.CalculateTotalAmount();
         }
         if(isUIOpen)
         {

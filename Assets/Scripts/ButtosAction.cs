@@ -4,22 +4,18 @@ using UnityEngine;
 public class ButtosAction : MonoBehaviour
 {
     [Header("Variable")]
-    [SerializeField] GameObject buildObject,buildManager;
+    [SerializeField] GameObject buildObject,buildManager,shopItems;
 
     [Header("Class")]
     [SerializeField] ShopManager shopManager;
-    SetMines setMines;
     InteractObjects interactObjects;
     Stats stats;
     UIDisplay uIDisplay;
     BuildingSystem buildingSystem;
-    SetOverlay setOverlay;
 
     private void Start() 
     {
-        setOverlay = FindObjectOfType<SetOverlay>();
         buildingSystem = FindObjectOfType<BuildingSystem>();
-        setMines = FindObjectOfType<SetMines>();
         interactObjects = FindObjectOfType<InteractObjects>();
         stats = FindObjectOfType<Stats>();
         uIDisplay = FindObjectOfType<UIDisplay>();
@@ -74,9 +70,10 @@ public class ButtosAction : MonoBehaviour
             interactObjects.selectedGameObecjet.GetComponent<SetMines>().cost += 10;
             interactObjects.selectedGameObecjet.GetComponent<SetMines>().xp += 10;
             interactObjects.selectedGameObecjet.GetComponent<SetMines>().level++;
-            Instantiate(buildObject,new Vector3(interactObjects.selectedGameObecjet.transform.position.x,
+            var mineralExtractor = Instantiate(buildObject,new Vector3(interactObjects.selectedGameObecjet.transform.position.x,
             interactObjects.selectedGameObecjet.transform.position.y,
             interactObjects.selectedGameObecjet.transform.position.z + 1),quaternion.identity);
+            mineralExtractor.transform.SetParent(interactObjects.selectedGameObecjet.transform);
             uIDisplay.SetStatsInfoes();
             uIDisplay.SetPanelsActive(2,false);
             gameObject.name = "NoAction";
@@ -97,6 +94,7 @@ public class ButtosAction : MonoBehaviour
         {
             uIDisplay.SetPanelsActive(5,false);
             GameObject newObject = Instantiate(buildObject,Vector3.zero,quaternion.identity);
+            newObject.transform.SetParent(shopItems.transform);
             buildingSystem.buildObject = newObject;
             buildingSystem.StartBuilding();
             uIDisplay.SetStatsInfoes();

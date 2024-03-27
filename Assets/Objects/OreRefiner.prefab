@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 701741137554551389}
   - component: {fileID: 4777893977791331716}
   - component: {fileID: 5280539414788626608}
+  - component: {fileID: 4461409230591565065}
   m_Layer: 0
-  m_Name: Oven
-  m_TagString: Buildings
+  m_Name: OreRefiner
+  m_TagString: OreRefinder
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3889262650418978457}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.014, y: -2.259, z: 2.4145825}
+  m_LocalPosition: {x: 5.014, y: -2.259, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -74,7 +75,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -396088211, guid: c5e977bbb6507334a905f62e08f78a38, type: 3}
+  m_Sprite: {fileID: -1553346300, guid: c5e977bbb6507334a905f62e08f78a38, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -101,7 +102,7 @@ PolygonCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.50000006, y: 0.2}
+    pivot: {x: 0.5, y: 0.3}
     oldSize: {x: 0.75, y: 0.6875}
     newSize: {x: 0.75, y: 0.6875}
     adaptiveTilingThreshold: 0.5
@@ -114,3 +115,15 @@ PolygonCollider2D:
       - {x: -0.5, y: 0}
       - {x: 0, y: -0.25}
       - {x: 0.5, y: 0}
+--- !u!114 &4461409230591565065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3889262650418978457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddd6bb807754f134d89d6217d89e6512, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

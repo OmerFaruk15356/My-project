@@ -18,4 +18,4 @@ MonoBehaviour:
   mineRate: 0.5
   collected: 0
   mineName: Purple
-  icon: {fileID: -834200417, guid: b39d600e959e84f47aa4c92d0c5bc30a, type: 3}
+  icon: {fileID: 1977567405, guid: b39d600e959e84f47aa4c92d0c5bc30a, type: 3}
