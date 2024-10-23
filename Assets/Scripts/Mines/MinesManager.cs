@@ -23,6 +23,10 @@ public class MinesManager : MonoBehaviour
     public float blueMineConverted;
     public float redMineConverted;
     public float purpleMineConverted;
+    public float greenMineSelling;
+    public float blueMineSelling;
+    public float redMineSelling;
+    public float purpleMineSelling;
 
     private void Update() 
     {
@@ -34,11 +38,11 @@ public class MinesManager : MonoBehaviour
     {
         greenMine = (int)(greenMines[0].gameObject.GetComponent<SetMines>().collected 
         + greenMines[1].gameObject.GetComponent<SetMines>().collected 
-        + greenMines[2].gameObject.GetComponent<SetMines>().collected) + greenMineConverted;
+        + greenMines[2].gameObject.GetComponent<SetMines>().collected) + greenMineConverted + greenMineSelling;
         blueMine = (int)(blueMines[0].gameObject.GetComponent<SetMines>().collected 
-        + blueMines[1].gameObject.GetComponent<SetMines>().collected) + blueMineConverted;
-        redMine = (int)redMines[0].gameObject.GetComponent<SetMines>().collected + redMineConverted;
-        purpleMine = (int)purpleMines[0].gameObject.GetComponent<SetMines>().collected + purpleMineConverted;
+        + blueMines[1].gameObject.GetComponent<SetMines>().collected) + blueMineConverted + blueMineSelling;
+        redMine = (int)redMines[0].gameObject.GetComponent<SetMines>().collected + redMineConverted + redMineSelling;
+        purpleMine = (int)purpleMines[0].gameObject.GetComponent<SetMines>().collected + purpleMineConverted + purpleMineSelling;
     }
 
     public void SetMineInventory()
